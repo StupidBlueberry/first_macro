@@ -1,0 +1,20 @@
+Info: Processing symbol 'D1:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Processing symbol 'D2:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U1:RF_Module:MCU_Seeed_ESP32C3'.
+Info: Total warnings: 0, errors: 0.
+Add D1 (footprint 'LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm').
+Add D2 (footprint 'LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm').
+Add SW1 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Add SW2 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Add SW3 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Add SW4 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Add U1 (footprint 'RF_Module:MCU_Seeed_ESP32C3').
+
+
+
+
+Info: Total warnings: 0, errors: 0.
